@@ -18,9 +18,12 @@ With a single dial, the dialPhone lets you do more than ever before. Flashing LE
 
 *Cellular*    SIM800l
 
-Power       Talk time up to 4 hours
-            Built-in wireless charging module
-Senors      Rotary Dial with Hall effect sensor
-OS          OpenSource
-SIM Card    Micro-SIM
-Language    Ancient Greek
+*Power*      Built-in wireless charging module
+
+*Sensors*      Rotary Dial with Hall effect sensor
+
+*OS*          OpenSource
+
+*SIM Card*    Micro-SIM
+
+*Language*    Ancient Greek
