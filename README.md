@@ -9,10 +9,15 @@ With a single dial, the dialPhone lets you do more than ever before. Flashing LE
 Tech Specs
 
 Finish      Walnut with CFK inlays
+
 Capacity    Up to 9 Numbers
+
 Dimensions  59x125x8 mm
+
 Chip        Arduino Nano
+
 Cellular    SIM800l
+
 Power       Talk time up to 4 hours
             Built-in wireless charging module
 Senors      Rotary Dial with Hall effect sensor
