@@ -26,4 +26,4 @@ With a single dial, the dialPhone lets you do more than ever before. Flashing LE
 
 *SIM Card*    Micro-SIM
 
-*Language*    Ancient Greek
+*Language*    Ancient Greek Symbols
